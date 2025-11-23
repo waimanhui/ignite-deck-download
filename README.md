@@ -7,8 +7,7 @@ The APIs for getting session details may be a bit different for each event in di
 
 ## Script files
 - [Microsoft Build 2025](/MSBuild2025-Download-Resources.ps1)
-- [Microsoft Ignite 2024](/MSIgnite2024-Download-Resources.ps1)
-- ~~[Microsoft Ignite 2023](/MSIgnite2023-Download-Resources.ps1)~~
+- [Microsoft Ignite 2025](/MSIgnite2025-Download-Resources.ps1)
 
 
 ## Usage
